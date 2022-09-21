@@ -2,10 +2,7 @@
 <h2 align="center">Study hard</h2>
 <p align="center">
   <a href="https://github.com/Godboy5" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Godboy5&title_color=333&text_color=777" alt="Godboy5's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Godboy5&hide=issues&title_color=333&text_color=777" alt="Godboy5's Stats" >
-    -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Godboy5" alt="Godboy5's Stats" >
   </a>
 </p>
 
@@ -25,7 +22,6 @@
 <code><img height="20" src="https://image.shutterstock.com/image-vector/logo-vector-css-3-low-600w-1902943426.jpg" alt="css3" title="css3"></code>
 <code><img height="20" src="https://img.icons8.com/color/344/javascript--v2.png" alt="js" title="js"></code>
 <code><img height="20" src="https://img.icons8.com/office/344/react.png" alt="react" title="react"></code>
-<code><img height="20" src="https://img.icons8.com/color/344/git.png" alt="git" title="git"></code>
 
 **Tools and Environments**
 
@@ -33,4 +29,9 @@
 <code><img height="20" src="https://img.icons8.com/color/344/nodejs.png" alt="node.js" title="node.js"></code>
 <code><img height="20" src="https://img.icons8.com/color/344/intellij-idea.png" alt="idea" title="idea"></code>
 <code><img height="20" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="postman" title="postman"></code>
-<code><img height="20" src="https://img.icons8.com/color/344/webpack.png" alt="postman" title="postman"></code>
+<code><img height="20" src="https://img.icons8.com/color/344/webpack.png" alt="webpack" title="webpack"></code>
+<code><img height="20" src="https://img.icons8.com/color/344/git.png" alt="git" title="git"></code>
+
+**Next stage learning objectives**
+
+<code><img height="20" src="https://threejs.org/files/favicon.ico" alt="Three.js" title="Three.js"></code>
