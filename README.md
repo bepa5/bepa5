@@ -2,7 +2,7 @@
 <h2 align="center">Study hard</h2>
 <p align="center">
   <a href="https://github.com/Godboy5" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Godboy5" alt="Godboy5's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=bepa5" alt="bepa5's Stats" >
   </a>
 </p>
 
